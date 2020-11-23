@@ -1,2 +1,2 @@
-# cupertino-website
-Cupertino's website
+# helselia-website
+Helselia website
